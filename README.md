@@ -10,6 +10,5 @@ Recomended actions:
 
 From the project's file source.
 
-import >> src folder.
-
-import >> Images.
+• import >> src folder.
+• import >> Images.
