@@ -18,5 +18,4 @@ From the project's file source.
 3. install >> Custom fonts
 
 ‼️Important Action‼
-
-:Please install the custom fonts to fully appreciate the code's potential.
+\nPlease install the custom fonts to fully appreciate the code's potential.
