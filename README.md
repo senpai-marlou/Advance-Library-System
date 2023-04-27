@@ -9,6 +9,5 @@ Recomended actions:
 3. Create three classes that extends JFrame. "loginFrame", "adminFrame", and "librarianFrame".
 
 From the project's file source.
-
-• import >> src folder.
-• import >> Images.
+1. import >> src folder.
+2. import >> Images.
