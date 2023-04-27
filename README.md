@@ -2,7 +2,7 @@
 
 This code will not work if you downloaded it as a zip file and then imported it into your IDE.
 
-Recomended actions:
+Recommended actions:
 
 • Download the separate zip file.
 
