@@ -17,6 +17,5 @@ From the project's file source.
 2. import >> Images.
 3. install >> Custom fonts
 
-❗Important❗
-
-• Please install the custom fonts to fully appreciate the code's potential.
+‼️ Important ‼
+Please install the custom fonts to fully appreciate the code's potential.
